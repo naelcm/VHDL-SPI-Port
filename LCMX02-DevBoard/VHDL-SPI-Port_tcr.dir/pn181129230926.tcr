@@ -1,0 +1,5 @@
+#Start recording tcl command: 11/29/2018 23:05:05
+#Project Location: F:/Projects/ExpCharger/GitRepo/VHDL-SPI-Port/LCMX02-DevBoard; Project name: VHDL-SPI-Port
+prj_project open "F:/Projects/ExpCharger/GitRepo/VHDL-SPI-Port/LCMX02-DevBoard/VHDL-SPI-Port.ldf"
+prj_run Export -impl impl1 -task Jedecgen
+#Stop recording: 11/29/2018 23:09:26
